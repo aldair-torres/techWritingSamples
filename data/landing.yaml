@@ -19,7 +19,7 @@ intro:
   #   height: 80px
 
   title: "Aldair Torres"
-  subtitle: Technical and UX writer
+  subtitle: Technical and UX writer based in Singapore
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
